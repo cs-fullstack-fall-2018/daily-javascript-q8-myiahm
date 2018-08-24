@@ -14,4 +14,4 @@ Choose the correct answer
 4) Add console.table statements to the function.
 
 
-my guess 1
+my guess 3
